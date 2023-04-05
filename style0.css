@@ -52,3 +52,19 @@ header{
     height: 32px;
     shape-outside: circle();
 }
+.videos{
+    width: 950px;
+    height: 534x;
+}
+.p{
+    margin-top: 24px;
+    font-size: 18px;
+    line-height: 28px;
+}
+.A{
+    color: #6B7280;
+}
+.tum{
+    display: flex;
+    justify-content: space-between;
+}
