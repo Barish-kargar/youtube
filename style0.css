@@ -105,3 +105,6 @@ aside {
     width: 100%;
     aspect-ratio: 16/9;
 }
+.margin{
+    margin-top: 10px;
+}
